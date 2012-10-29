@@ -10,7 +10,7 @@ Using PyJnius with ChimpChat and MonkeyRunner
     
 MonkeyRunner/Chimpchat
 ----------------------
-    MonkeyRunner and ChimpChat are classes used by the android debug bridge logic to interactive with android devices over usb.
+    MonkeyRunner and ChimpChat are classes used by the android debug bridge logic to interact with android devices over usb.
     MonkeyRunner is an abstraction around ChimpChat, ChimpChat offering more features and more access to the device than MonkeyRunner.
     Both sets of classes can be used to connect to and communicate with Android devices over usb.
 
